@@ -5,7 +5,7 @@ How does digital influencers' popularity start and diffuse? In this project, I t
 
 First, I created two networks with their related tweets scraped from Twitter during the CHUANG2021 competition period. Second, I analyzed the topological characteristics of their networks and how their networks progress during the competition. Lastly, through simulation with diffusion model, I discovered that with only 10 initial influential fans, contestants' popularity can easily diffuses throughout the network.
 
-Presentation slides with interim results and report with final results are uploaded. Data is not included because of privacy issues. For betweenness calculation, you may need the rapids ai docker.
+Presentation slides with interim results and report with final results are uploaded. The scrapped data is not included because of privacy issues. For betweenness calculation, you may need the rapids ai docker.
 
 Feel free to cite, comment or extend this project. Have fun! 😄
 
