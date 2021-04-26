@@ -11,7 +11,7 @@ Presentation slides with interim results and report with final results are uploa
      alt="Markdown Monster icon"  height="150"
      style="float: left; margin-right: 10px;" />
 <img src="https://64.media.tumblr.com/c50214a79e4a2add407235f27fa851ae/3f3916e27d200572-12/s540x810/d0e88792009c77ba4344a4fd03af915560cda3b1.gifv"
-     alt="Markdown Monster icon"  width="150"
+     alt="Markdown Monster icon"  height="150"
      style="float: left; margin-right: 10px;" />
 
 
