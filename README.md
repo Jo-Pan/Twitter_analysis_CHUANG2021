@@ -1,5 +1,6 @@
 # Twitter analysis on CHUANG2021 contestants’ popularity with diffusion networks
 
+Keywords: social network, diffusion models
 
 How does digital influencers' popularity start and diffuse? In this project, I try to answer this question from the social network perspective. Two CHUANG2021's contestants, Liu Yu （刘宇） and Mika （米卡） are selected as the main study targets for this project. 
 
