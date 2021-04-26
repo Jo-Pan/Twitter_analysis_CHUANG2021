@@ -1,7 +1,11 @@
 # Twitter analysis on CHUANG2021 contestants’ popularity with diffusion networks
 
 
-How does digital influencers' popularity start and diffuse? In this project, I try to answer this question from the social network perspective. Two CHUANG2021's contestants, Liu Yu and Mika are selected as the main study targets for this project.First, I created two networks with their related tweets scraped from Twitter during the competition period. Second, I analyzed the topological characteristics of their networks and how their networks progress during the competition. Lastly, through simulation with diffusion model, I discovered that with only 10 initial influential fans, contestants' popularity can easily diffuses throughout the network.
+How does digital influencers' popularity start and diffuse? In this project, I try to answer this question from the social network perspective. Two CHUANG2021's contestants, Liu Yu and Mika are selected as the main study targets for this project. 
+
+First, I created two networks with their related tweets scraped from Twitter during the CHUANG2021 competition period. Second, I analyzed the topological characteristics of their networks and how their networks progress during the competition. Lastly, through simulation with diffusion model, I discovered that with only 10 initial influential fans, contestants' popularity can easily diffuses throughout the network.
+
+Presentation slides with interim results and report with final results are uploaded. Feel free to cite, comment or extend this project. 
 
 <img src="http://cms-bucket.ws.126.net/2021/0222/e4d8c92ag00qoxahj01jsc0009q0064c.gif"
      alt="Markdown Monster icon"  height="150"
