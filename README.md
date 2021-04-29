@@ -10,10 +10,10 @@ Presentation slides with interim results and report with final results are uploa
 
 Feel free to cite, comment or extend this project. Have fun! 😄
 
-<img src="http://cms-bucket.ws.126.net/2021/0222/e4d8c92ag00qoxahj01jsc0009q0064c.gif"
+<img src="https://static.wikia.nocookie.net/producecamp2021/images/c/c1/Liu_Yu.jpg/revision/latest?cb=20210210143235"
      alt="Markdown Monster icon"  height="150"
      style="float: left; margin-right: 10px;" />
-<img src="https://64.media.tumblr.com/c50214a79e4a2add407235f27fa851ae/3f3916e27d200572-12/s540x810/d0e88792009c77ba4344a4fd03af915560cda3b1.gifv"
+<img src="https://i.pinimg.com/originals/c5/2e/fe/c52efe75cb5e34c192679a336f83329a.png"
      alt="Markdown Monster icon"  height="150"
      style="float: left; margin-right: 10px;" />
 
